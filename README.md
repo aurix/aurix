@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on JavaScript, HTML, CSS, C#, NodeJS, Discord.js, MySQL, SQL.
+🔭 I'm working on JavaScript, HTML, CSS, C#, NodeJS, MySQL, SQL.
 
 
 # 💻 Tech Stack:
